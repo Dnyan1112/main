@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 I love DevOps
 
