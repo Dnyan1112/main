@@ -1,2 +1,5 @@
-second line from local sys
+<<<<<<< HEAD
+
 I love DevOps
+
+
